@@ -1,11 +1,11 @@
 {
   "spider": "./fty.jar",
-  "warningText": "【挺好分享】接口免费，每次打开记得长按主页刷新！",
-  "logo": "http://ztha.top/picture/lmtu1.jpg",
+  "warningText": "ZLMing",
+  "logo": "",
   "sites": [
     {
       "key": "豆豆豆",
-      "name": "公众号[挺好分享]",
+      "name": "ZLMing",
       "type": 3,
       "api": "csp_DouDou",
       "indexs": 1,
@@ -30,7 +30,7 @@
     },
     {
       "key": "荐片",
-      "name": "🍭荐片┃磁力",
+      "name": "荐片磁力",
       "api": "csp_Jianpian",
       "type": 3,
       "playerType": "1",
@@ -38,7 +38,7 @@
     },
     {
       "key": "csp_XBPQ_6V",
-      "name": "🌞TH┃挺好┃4K",
+      "name": "挺好4K",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -49,7 +49,7 @@
     },
     {
       "key": "Lib",
-      "name": "🌟TH┃立播┃秒播",
+      "name": "立播",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -62,7 +62,7 @@
     },
     {
       "key": "文采",
-      "name": "💮TH┃文采┃秒播",
+      "name": "文采",
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 2,
@@ -72,7 +72,7 @@
     },
     {
       "key": "糯米",
-      "name": "🍓TH┃糯米┃秒播",
+      "name": "糯米",
       "type": 3,
       "api": "csp_Nmyswv",
       "searchable": 1,
@@ -91,7 +91,7 @@
     },
     {
       "key": "zxzj",
-      "name": "🍊TH┃在线┃秒播",
+      "name": "在线秒播",
       "type": 3,
       "api": "csp_Zxzj",
       "timeout": 15,
@@ -102,7 +102,7 @@
     },
     {
       "key": "csp_Bttoo",
-      "name": "🍄TH┃比特┃秒播",
+      "name": "比特秒播",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -111,7 +111,7 @@
     },
     {
       "key": "苹果",
-      "name": "🍎TH┃苹果┃不卡",
+      "name": "苹果",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -120,7 +120,7 @@
     },
     {
       "key": "原创",
-      "name": "☀TH┃原创┃不卡",
+      "name": "原创",
       "type": 3,
       "api": "csp_YCyz",
       "timeout": 15,
@@ -131,7 +131,7 @@
     },
     {
       "key": "厂长",
-      "name": "📔TH┃厂长┃不卡",
+      "name": "厂长",
       "type": 3,
       "api": "csp_NewCz",
       "playerType": 2,
@@ -142,7 +142,7 @@
     },
     {
       "key": "木星",
-      "name": "🌞TH┃木星┃多线",
+      "name": "木星多线",
       "type": 3,
       "api": "csp_AppSx",
       "searchable": 1,
@@ -152,7 +152,7 @@
     },
     {
       "key": "热播",
-      "name": "📺TH┃热播┃多线",
+      "name": "热播多线",
       "type": 3,
       "api": "csp_AppTT",
       "playerType": 2,
@@ -163,7 +163,7 @@
     },
     {
       "key": "南瓜",
-      "name": "🎃TH┃南瓜┃多线",
+      "name": "南瓜多线",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
@@ -173,7 +173,7 @@
     },
     {
       "key": "萌米",
-      "name": "👀TH┃萌米┃多线",
+      "name": "萌米多线",
       "type": 3,
       "api": "csp_AppTT",
       "playerType": 2,
@@ -184,7 +184,7 @@
     },
     {
       "key": "欢视",
-      "name": "👓TH┃欢视┃多线",
+      "name": "欢视多线",
       "type": 3,
       "api": "csp_AppTT",
       "playerType": 2,
@@ -195,7 +195,7 @@
     },
     {
       "key": "低端",
-      "name": "⏮️TH┃低端┃外剧",
+      "name": "低端外剧",
       "type": 3,
       "api": "csp_Ddrk",
       "playerType": "2",
@@ -205,7 +205,7 @@
     },
     {
       "key": "可可",
-      "name": "👻TH┃可可┃多线",
+      "name": "可可多线",
       "type": 3,
       "api": "csp_Kekys",
       "playerType": 2,
@@ -215,7 +215,7 @@
     },
     {
       "key": "Auete",
-      "name": "🏝TH┃奥特┃无广",
+      "name": "奥特无广",
       "type": 3,
       "api": "csp_Auete",
       "timeout": 15,
@@ -226,7 +226,7 @@
     },
     {
       "key": "新6V",
-      "name": "🧲TH┃新6V┃磁力",
+      "name": "6V磁力",
       "type": 3,
       "api": "csp_SixV",
       "searchable": 1,
@@ -236,7 +236,7 @@
     },
     {
       "key": "Dm84",
-      "name": "🚌TH┃巴士┃动漫",
+      "name": "巴士动漫",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -245,7 +245,7 @@
     },
     {
       "key": "Ysj",
-      "name": "🎀TH┃异界┃动漫",
+      "name": "异界动漫",
       "type": 3,
       "api": "csp_Ysj",
       "searchable": 1,
@@ -254,7 +254,7 @@
     },
     {
       "key": "Anime1",
-      "name": "🐾TH┃日本┃动漫",
+      "name": "日本动漫",
       "type": 3,
       "api": "csp_Anime1",
       "searchable": 1,
@@ -263,7 +263,7 @@
     },
     {
       "key": "抠搜",
-      "name": "🍄TH┃抠抠┃搜搜",
+      "name": "抠抠搜搜",
       "type": 3,
       "api": "csp_KkSs",
       "searchable": 1,
@@ -276,7 +276,7 @@
     },
     {
       "key": "UC",
-      "name": "🌈TH┃优汐┃搜搜",
+      "name": "优汐搜搜",
       "type": 3,
       "api": "csp_UuSs",
       "searchable": 1,
@@ -289,20 +289,20 @@
     },
     {
       "key": "drpy_js_量子资源",
-      "name": "📛TH┃量子影视",
+      "name": "量子影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/量子资源.js"
     },
     {
       "key": "索尼",
-      "name": "📛TH┃索尼影视",
+      "name": "索尼影视",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod"
     },
     {
       "key": "csp_Dm841",
-      "name": "🚌TH┃动漫巴士",
+      "name": "动漫巴士",
       "type": 3,
       "api": "csp_Dm84",
       "searchable": 1,
@@ -311,7 +311,7 @@
     },
     {
       "key": "量子短剧",
-      "name": "📛TH┃量子短剧",
+      "name": "量子短剧",
       "type": 1,
       "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi",
       "searchable": 1,
@@ -330,7 +330,7 @@
     },
     {
       "key": "Czspp",
-      "name": "🕺TH┃厂长影视",
+      "name": "厂长影视",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -340,7 +340,7 @@
     },
     {
       "key": "yc",
-      "name": "📛TH┃4KHDR",
+      "name": "4KHDR",
       "type": 3,
       "playerType": 1,
       "api": "csp_Hdhive",
@@ -352,7 +352,7 @@
     },
     {
       "key": "Aid",
-      "name": "🚑TH┃急救教学",
+      "name": "急救教学",
       "type": 3,
       "api": "csp_FirstAid",
       "searchable": 0,
@@ -365,7 +365,7 @@
     },
     {
       "key": "米搜",
-      "name": "🦋TH┃米盘┃搜搜",
+      "name": "米盘搜搜",
       "type": 3,
       "api": "csp_MIPanSo",
       "searchable": 1,
@@ -378,7 +378,7 @@
     },
     {
       "key": "抠搜",
-      "name": "🍄TH┃抠抠┃搜搜",
+      "name": "TH抠抠搜搜",
       "type": 3,
       "api": "csp_KkSs",
       "searchable": 1,
@@ -391,7 +391,7 @@
     },
     {
       "key": "Sso",
-      "name": "🐌TH┃盘他┃三盘",
+      "name": "盘他",
       "type": 3,
       "api": "csp_PanSso",
       "searchable": 1,
@@ -404,7 +404,7 @@
     },
     {
       "key": "夸搜",
-      "name": "🐟TH┃夸搜┃狸夸",
+      "name": "夸搜",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -418,7 +418,7 @@
     },
     {
       "key": "YiSo",
-      "name": "😹TH┃易搜┃阿狸",
+      "name": "阿狸易搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -431,7 +431,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "🙀TH┃盘Se┃阿狸",
+      "name": "阿狸盘Se",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -444,7 +444,7 @@
     },
     {
       "key": "UC",
-      "name": "🌈优汐┃搜搜",
+      "name": "优汐搜搜",
       "type": 3,
       "api": "csp_UuSs",
       "searchable": 1,
@@ -457,7 +457,7 @@
     },
     {
       "key": "酷奇",
-      "name": "🎤酷奇┃MV",
+      "name": "酷奇MV",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/酷奇MV.js",
@@ -471,7 +471,7 @@
     },
     {
       "key": "MTV",
-      "name": "🎧明星┃MV",
+      "name": "明星MV",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -487,7 +487,7 @@
     },
     {
       "key": "有声小说js",
-      "name": "🎧有声┃小说",
+      "name": "有声小说",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/有声小说吧.js",
@@ -501,7 +501,7 @@
     },
     {
       "key": "alllive",
-      "name": "📽️一直播┃LIVE",
+      "name": "一直播LIVE",
       "type": 3,
       "api": "csp_Alllive",
       "playerType": 2,
@@ -511,7 +511,7 @@
     },
     {
       "key": "926看球",
-      "name": "⚽926┃看球",
+      "name": "926看球",
       "type": 3,
       "api": "csp_kanqiu926",
       "searchable": 0,
@@ -522,7 +522,7 @@
     },
     {
       "key": "88js",
-      "name": "⚽ 88┃看球",
+      "name": "88看球",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/88看球.js",
@@ -535,7 +535,7 @@
     },
     {
       "key": "310js",
-      "name": "⚽ 310┃看球",
+      "name": "310看球",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/310直播.js",
@@ -548,7 +548,7 @@
     },
     {
       "key": "Jrsjs",
-      "name": "⚽ Jrs┃球迷",
+      "name": "Jrs球迷",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/jrk.js",
@@ -561,7 +561,7 @@
     },
     {
       "key": "虎牙直播js",
-      "name": "🐯虎牙┃直播",
+      "name": "虎牙直播",
       "type": 3,
       "api": "./lib/drpy2.js",
       "ext": "./lib/huya2.js",
@@ -576,7 +576,7 @@
     },
     {
       "key": "斗鱼js",
-      "name": "🐟斗鱼┃直播",
+      "name": "斗鱼直播",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/斗鱼直播.js",
@@ -591,7 +591,7 @@
     },
     {
       "key": "Bili",
-      "name": "🅱哔哔合集┃弹幕",
+      "name": "哔哔合集",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -607,7 +607,7 @@
     },
     {
       "key": "Biliych",
-      "name": "🅱明星演唱会┃弹幕",
+      "name": "明星演唱会",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -623,7 +623,7 @@
     },
     {
       "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
+      "name": "儿童启蒙",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/兔小贝.js",
@@ -637,7 +637,7 @@
     },
     {
       "key": "少儿教育",
-      "name": "📚少儿┃教育",
+      "name": "少儿教育",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -653,7 +653,7 @@
     },
     {
       "key": "小学课堂",
-      "name": "📚小学┃课堂",
+      "name": "小学课堂",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -669,7 +669,7 @@
     },
     {
       "key": "初中课堂",
-      "name": "📚初中┃课堂",
+      "name": "初中课堂",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -685,7 +685,7 @@
     },
     {
       "key": "高中教育",
-      "name": "📚高中┃课堂",
+      "name": "高中课堂",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -700,10 +700,10 @@
       }
     }
   ],
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "wallpaper": "",
   "lives": [
     {
-      "name": "挺好分享",
+      "name": "ZLMing",
       "type": 0,
       "url": "./lib/thtv.txt",
       "playerType": 1
